@@ -1,0 +1,4 @@
+# This file is necessary for you to be able to conenct your Bot to the appropriate Discord server.
+# Paste your Discord server token below.
+
+# Token:
